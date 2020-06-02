@@ -1,0 +1,66 @@
+Hospital,occupied_beds,vacant_beds,occupied_ventilators,vacant_ventilators
+Govt Lok Nayak Hospital,871,1129,47,17
+Govt AIIMS (Jhajjar)*,583,39,0,39
+Govt RGSSH,139,361,1,28
+Govt SJH,270,50,6,50
+Govt AIIMS (Delhi)*,105,145,Not available,Not available
+Govt RML,161,17,11,17
+Govt LHMC,50,12,1,12
+Pvt Max Hospital,188,28,4,28
+Pvt Sir Ganga Ram Hospital,0,135,Not available,Not available
+Pvt SGRH City,111,9,11,3
+Pvt Max Super Specialty Hospital,0,80,Not available,Not available
+Pvt Apollo,116,2,6,2
+Pvt MDCT Hospital,80,20,3,2
+Pvt RGCI & RC,0,100,Not available,Not available
+Pvt HAHC,0,94,Not available,Not available
+Pvt Dr. B.L. Kapur Memorial Hospital,0,93,Not available,Not available
+Pvt Maharaja Agrasen Hospital,0,80,Not available,Not available
+Pvt Batra Hospital,69,5,0,5
+Pvt Holy Family Hospital,0,69,Not available,Not available
+Pvt Fortis Escorts Heart Institute,0,62,Not available,Not available
+Pvt Max Shalimar Bagh,0,56,Not available,Not available
+Pvt Park Hospital,0,53,Not available,Not available
+Pvt Ayushman Hospital,0,21,Not available,Not available
+Pvt Venkateshwar Hospital,0,50,Not available,Not available
+Pvt Sri Balaji Action Medical Institute,0,50,Not available,Not available
+Pvt Jaipur Golden Hospital,0,48,Not available,Not available
+Pvt Fortis Hospital,0,32,1,2
+"Pvt Bansal Global Hospital, Jahangirpuri",0,46,Not available,Not available
+Pvt Mata Chanan Devi Hospital,0,42,Not available,Not available
+Pvt Aakash Healthcare,0,40,Not available,Not available
+Pvt Tirath Ram Shah Ch. Hospital,0,40,Not available,Not available
+Pvt PSRI,0,40,Not available,Not available
+Pvt Manipal Hospital,0,40,Not available,Not available
+Pvt Dharamshila Narayana Hosp,0,40,Not available,Not available
+Pvt SGRM Kolmet,33,5,1,5
+Pvt Indian Spinal Injuries Centre,0,37,Not available,Not available
+Pvt Sant Parmand Hospital,0,30,Not available,Not available
+Pvt Mool Chand Khairati Ram Hospital,0,28,Not available,Not available
+Pvt MGS Hospital,0,28,Not available,Not available
+Pvt Madhukar Rainbow Hospital,0,26,Not available,Not available
+Pvt Primus Super Specialty Hospital,0,24,Not available,Not available
+Pvt Kukreja Hospital & Heart Centre,0,24,Not available,Not available
+Pvt Medeor,0,22,Not available,Not available
+Pvt Santom Hospital,0,21,Not available,Not available
+Pvt Saroj Medical Institute,0,21,Not available,Not available
+Pvt RLKC Metro Heart Institute,0,20,Not available,Not available
+Pvt Action Cancer Hospital,0,20,Not available,Not available
+Pvt Bhagwati Hospital,0,20,Not available,Not available
+Pvt Delhi Heart & Lung Institute,0,20,Not available,Not available
+Pvt Sehgal Neo,0,20,Not available,Not available
+Pvt NKS Hospital,0,20,Not available,Not available
+Pvt Rathi Hospital,0,20,Not available,Not available
+Pvt Navjeevan Hospital,0,20,Not available,Not available
+"Pvt Brahm Shakti Hospital,",0,20,Not available,Not available
+Pvt Shri Ram Singh Hospital and Heart Institute,0,20,Not available,Not available
+Pvt Medeor Hospital,0,20,Not available,Not available
+Pvt VIMHANS,0,18,Not available,Not available
+Pvt Cygnus MLS,0,17,Not available,Not available
+Pvt Bhagat Chandra Hospital,0,17,Not available,Not available
+Pvt Goyal Hospital & Urology Centre,0,16,Not available,Not available
+Pvt Cygnus Sonia Hospital,0,14,Not available,Not available
+Pvt National Heart Institute,0,14,Not available,Not available
+Pvt Malik Radix Hospital,0,14,Not available,Not available
+Pvt Sitaram Bhartia Institute,0,14,Not available,Not available
+Pvt Cygnus Orthocare Hospital**,0,0,Not available,Not available
